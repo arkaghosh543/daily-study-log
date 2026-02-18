@@ -1,2 +1,3 @@
-# daily-study-log
-Week 2 
+- WEEK 1 Done
+- WEEk 2 Done
+- 
