@@ -6,3 +6,10 @@
 -Binary Search
 -Running Time
 -search.c
+-phonebook.c
+- struct new function
+- then updated phonebook code named struct
+- sorting
+- slection sort O(n square)
+- bubble short O(n square) worst case
+- recursion stated no understand 
