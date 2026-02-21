@@ -12,4 +12,8 @@
 - sorting
 - slection sort O(n square)
 - bubble short O(n square) worst case
-- recursion stated no understand 
+- recursion stated no understand
+- Recursion done
+- Merge sort learned
+- make a pyramid using recursion like mario
+- Week 3 lecture done 
