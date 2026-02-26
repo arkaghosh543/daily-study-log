@@ -16,4 +16,5 @@
 - Recursion done
 - Merge sort learned
 - make a pyramid using recursion like mario
-- Week 3 lecture done 
+- Week 3 lecture done
+- Week 3 Section doing
