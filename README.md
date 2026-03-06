@@ -19,3 +19,4 @@
 - Week 3 lecture done
 - Week 3 Section doing
 - runnoff problem solving
+- practicing the runoff problem
