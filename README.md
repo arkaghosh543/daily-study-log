@@ -20,3 +20,5 @@
 - Week 3 Section doing
 - runnoff problem solving
 - practicing the runoff problem
+- Wee 4 lec done
+- 
