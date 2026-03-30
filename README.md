@@ -21,4 +21,4 @@
 - runnoff problem solving
 - practicing the runoff problem
 - Wee 4 lec done
-- 
+- lec done
