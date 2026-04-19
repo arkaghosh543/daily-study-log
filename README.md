@@ -22,4 +22,5 @@
 - practicing the runoff problem
 - Wee 4 lec done
 - lec done
-- Section 
+- Section
+- section lec complete
