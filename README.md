@@ -24,3 +24,4 @@
 - lec done
 - Section
 - section lec complete
+- week 4 short videos 
