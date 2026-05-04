@@ -26,3 +26,4 @@
 - section lec complete
 - week 4 short videos
 - Completing the shorts videos
+- Then we will do the problem set
